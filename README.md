@@ -11,6 +11,12 @@ When you catch the taco the party begins!
 <img width="350" alt="Screenshot 2024-01-02 at 18 08 06" src="https://github.com/cmartinezal/taco-game/assets/84383847/f91e2c24-a103-403a-8cdb-82601d2367f1">
 
 
+## Getting Started
+1. To see the scratch project go to [https://scratch.mit.edu/projects/editor/?tutorial=getStarted](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
+
+2. Click in **file -> Load from your computer** and upload the sb3 file.
+   
+3. Now you can see the code and play the game.
 
 
 ## Demo:
