@@ -1,6 +1,6 @@
 # taco-game
 
-> A game to catch a taco made with Scratch. Cs50 Problem Set 0.
+> A game to catch a taco made with Scratch. CS50 Problem Set 0.
 
 ## Usage
 There is a taco in a city full of donuts. Catch the taco by clicking on it while avoiding the donuts. When you click on the donuts they get bigger and the counter increments.
